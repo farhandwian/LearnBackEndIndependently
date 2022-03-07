@@ -1,0 +1,15 @@
+{
+  "name": "orm_sequelize",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "farhan dwian",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
